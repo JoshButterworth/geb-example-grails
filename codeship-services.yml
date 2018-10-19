@@ -1,0 +1,4 @@
+test:
+  build:
+    image: myapp
+    dockerfile: base.dockerfile

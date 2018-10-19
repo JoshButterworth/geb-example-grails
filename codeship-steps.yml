@@ -1,0 +1,6 @@
+- name: foo_step
+  service: test
+  command: echo foo
+- name: bar_step
+  service: test
+  command: echo bar
